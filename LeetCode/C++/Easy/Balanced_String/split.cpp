@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm>
 #include <string>
+#include <vector>
 
 int balanced_string(std::string str)
 {
